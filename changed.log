@@ -1,0 +1,11 @@
+Date: 2025-10-07
+File modified: /home/hhhoko853/yt-views-bot/Chrome/YouTubeBot.py
+Changes:
+- Imported the datetime module.
+- Modified the start function to log the number of views generated and the time.
+
+Date: 2025-10-07
+File modified: /home/hhhoko853/yt-views-bot/Chrome/YouTubeBot.py
+Changes:
+- Modified the script to use multithreading to run multiple browser instances in parallel.
+- The script now accepts an additional command-line argument `num_browsers` to specify the number of parallel browsers to use.
